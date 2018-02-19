@@ -1,2 +1,0 @@
-# myReact
-Created with CodeSandbox
